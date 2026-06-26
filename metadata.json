@@ -1,0 +1,6 @@
+{
+  "name": "Puente Digital",
+  "description": "Comparte tus redes sociales de manera selectiva en cada encuentro mediante QR o NFC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
